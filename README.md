@@ -2,7 +2,7 @@
 Shiny Modules for SQL Querying
 
 
-![Alt text](images/imgfile.png=100x20?raw=true "Title")
+![Alt text](images/imgfile.png?raw=true "Title")
 
 
 | Package | Description | Demo |
