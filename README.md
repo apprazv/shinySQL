@@ -1,13 +1,14 @@
 # shinySQL
 Shiny Modules for SQL Querying
 
-| Package | Description | Demo |
-|---|---|---|
-| [shinySQL](https://github.com/apprazv/shinySQL) | 💡 Shiny Modules to Enable Database Pulls & Manipulations in Shiny Apps | [🔗] WIP|
-| [shinyEDA](https://github.com/apprazv/shinyEDA) | ✅  |Shiny Module for Exploratory Data Analysis [🔗]WIP|
-| [shinyCRM](https://github.com/apprazv/shinyCRM/) | 📝 Shiny based CRM | WIP |
+![Alt text](images/imgfile.png?raw=true "Title")
 
-![hexSticker] (https://raw.githubusercontent.com/apprazv/shinySQL/main/images/imgfile.png)
+| Package | Description | Status |
+|---|---|---|
+| [shinySQL](https://github.com/apprazv/shinySQL) | 💡 Shiny Modules to Enable Database Pulls in Shiny Apps | WIP |
+| [shinyAWS](https://github.com/apprazv/shinyAWS) | ⏬ Shiny Module for AWS| WIP |
+| [shinyEDA](https://github.com/apprazv/shinyEDA) | ✅ Shiny Module for Exploratory Data Analysis | WIP |
+| [shinyCRM](https://github.com/apprazv/shinyCRM/) | 📝 Shiny based CRM | WIP |
 
 ```r
 library(DBI)
