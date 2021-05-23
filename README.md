@@ -7,7 +7,7 @@ Shiny Modules for SQL Querying
 | [shinyEDA](https://github.com/apprazv/shinyEDA) | ✅  |Shiny Module for Exploratory Data Analysis [🔗]WIP|
 | [shinyCRM](https://github.com/apprazv/shinyCRM/) | 📝 Shiny based CRM | WIP |
 
-![hexSticker] (https://github.com/apprazv/shinySQL/blob/main/images/imgfile.png)
+![hexSticker] (https://raw.githubusercontent.com/apprazv/shinySQL/main/images/imgfile.png)
 
 ```r
 library(DBI)
