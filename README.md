@@ -4,6 +4,7 @@ Shiny Modules for SQL Querying
 ![Alt text](images/imgfile.png?raw=true "Title")
 
 | Package | Description | Status |
+|---|---|---|
 | [shinySQL](https://github.com/apprazv/shinySQL) | 💡 Shiny Modules to Enable Database Pulls in Shiny Apps | WIP |
 | [shinyAWS](https://github.com/apprazv/shinyAWS) | ⏬ Shiny Module for AWS| WIP |
 | [shinyEDA](https://github.com/apprazv/shinyEDA) | ✅ Shiny Module for Exploratory Data Analysis | WIP |
