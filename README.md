@@ -1,5 +1,5 @@
 # shinySQL
-Shiny Modules for SQL Querying
+Shiny Module for SQL Querying
 
 ![Alt text](images/imgfile.png?raw=true "Title")
 
