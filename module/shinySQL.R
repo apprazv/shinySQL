@@ -16,7 +16,7 @@ sqlServer <- function(id,rv) {
           passwordInput(ns("uid"),"UID"),
           passwordInput(ns("pwd"),"PWD"),
           textInput(ns("role"),"Role","LINEAR_DATA_SCIENCE_USER"),
-          textInput(ns("server"),"server","ted_cnn.us-east-1.snowflakecomputing.com"),
+          textInput(ns("server"),"server","apprazv.snowflakecomputing.com"),
           textInput(ns("schema"),"Schema","DATABRICKS"),
           textInput(ns("warehouse"),"Warehouse","LINEAR_DATA_SCIENCE_USAGE"),
           textInput(ns("database"),"Database","LINEAR_ANALYTIC_TOOLS"),
